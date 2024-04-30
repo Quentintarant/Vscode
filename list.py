@@ -1,0 +1,22 @@
+l = [1,2,3,"balaji","quentin","nolan",True,False,89.0,98756553]
+print(l)
+print(l.count(2))
+print(l)
+print(l.index(3))
+print(l)
+print(l.append("praveen"))
+print(l)
+print(l.insert(6,78))
+print(l)
+l1 = [8,9]
+print(l.extend(l1))
+print(l)
+print(len(l))
+l1.sort(reverse = True)
+print(l1)
+print(l.pop(4))
+print(l)
+del l[6]
+print(l)
+print(l.remove(8))
+print(l)
