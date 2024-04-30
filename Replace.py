@@ -1,2 +1,2 @@
 name = "balaji"
-print(name.replace('b','B'))
+print(name.replace('b','B'))""
